@@ -1,0 +1,9 @@
+debug: false
+version: '1.0.0'
+systemName: 'VpsServer'
+name: 'VpsServer'
+description: 'This module allows to manage vps hostings for vpsserver.com'
+clientareaName: 'VpsServer'
+author: '<a href="http://www.modulesgarden.com" targer="_blank">ModulesGarden</a>'
+fields: []
+moduleIcon: ''

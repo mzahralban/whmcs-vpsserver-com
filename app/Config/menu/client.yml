@@ -1,0 +1,18 @@
+Service Details Overview:       
+Service Details Actions: []
+mg-provisioning-module:
+    icon: 'fa-cog'
+    order: 25
+    children:
+        changeHostname:
+            order: 1
+        firewalls:
+            order: 2
+        backups:
+            order: 3
+        #sshKeys:
+            #order: 4
+        graphs:
+            order: 5
+   
+#SSH KEYS removed on client request, will be added in one of next version
