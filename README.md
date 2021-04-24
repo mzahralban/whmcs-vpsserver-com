@@ -3,9 +3,7 @@
 We are happy to announce we have created a WHMCS module for VPSServer.com :)
 If you find bugs please create a issue in the issues list on Github.
 
-Fill free to fix bugs and request a pull. 
+Please note that this WHMCS module is community driven and is not actively supported. 
+Feel free to fix any issues and create a pull request. 
 
-For support or questions please contact us on support@vpsserver.com.
-
-
-Please download VPSServer.com provisioning module for WHMCS.pdf and read the manual to configure the WHMCS module.
+Please use the manual for to get yourself started with the configuration of the WHMCS module. You can also sent us a message, but please note the above.
